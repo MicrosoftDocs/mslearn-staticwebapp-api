@@ -23,13 +23,13 @@ The shopping theme is used throughout the app.
 
 The apps written in the following JavaScript frameworks/libraries:
 
-| folder          | Description                                                                                                     |
-| --------------- | --------------------------------------------------------------------------------------------------------------- |
-| **angular-app** | [Sample Angular app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/master/angular-app)         |
-| **api-starter** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/master/api-starter) |
-| **react-app**   | [Sample React app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/master/react-app)             |
-| **svelte-app**  | [Sample Svelte app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/master/svelte-app)           |
-| **vue-app**     | [Sample Vue app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/master/vue-app)                 |
+| folder          | Description                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------- |
+| **angular-app** | [Sample Angular app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/angular-app)         |
+| **api-starter** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/api-starter) |
+| **react-app**   | [Sample React app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/react-app)             |
+| **svelte-app**  | [Sample Svelte app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/svelte-app)           |
+| **vue-app**     | [Sample Vue app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/vue-app)                 |
 
 ## Prerequisites
 
