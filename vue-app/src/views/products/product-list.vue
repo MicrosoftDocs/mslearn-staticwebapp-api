@@ -31,9 +31,7 @@ export default {
 
 <template>
   <div>
-    <div v-if="!products.length">
-      Loading data ...
-    </div>
+    <div v-if="!products.length">Loading data ...</div>
     <ul class="list">
       <li
         v-for="(product, index) in products"
