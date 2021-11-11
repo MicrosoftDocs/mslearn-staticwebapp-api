@@ -36,7 +36,7 @@ The apps written in the following JavaScript frameworks/libraries:
 - A GitHub account
 - [Node.js and Git](https://nodejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
-- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
+- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) installed
 - The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
 
 ## Problems or Suggestions
