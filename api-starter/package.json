@@ -1,11 +1,14 @@
 {
-  "name": "functions",
+  "name": "api-v4",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  },
+  "devDependencies": {},
+  "main": "src/index.js"
 }

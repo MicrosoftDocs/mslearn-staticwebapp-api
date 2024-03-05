@@ -5,9 +5,9 @@ This project is an Azure Functions app, that responds to GET, POST, PUT, and DEL
 ## Prerequisites
 
 - A GitHub account
-- [Node.js and Git](https://nodejs.org/)
+- [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=mslearn_staticwebapp-github-jopapa) installed
-- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=mslearn_staticwebapp-github-jopapa) installed
+- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) installed
 - The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=mslearn_staticwebapp-github-jopapa) installed
 
 ## Getting Started
