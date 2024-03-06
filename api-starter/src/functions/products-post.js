@@ -14,7 +14,7 @@ async function ProductsPost(request) {
 
         return { 
             status: 201, 
-            body: newProduct 
+            jsonBody: newProduct
         }
     } catch (error) {
         context.error(`Error: ${error.message}`);
