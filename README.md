@@ -9,9 +9,13 @@ description: 'Apps that can be used with as a starting point for some MS Learn M
 urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp-api'
 ---
 
-# Official Microsoft Sample
+# Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps Code Sample
 
-Follow the hands-on tutorial to [publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=mslearn_staticwebappapi-github-jopapa).
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MicrosoftDocs/mslearn-staticwebapp-api)
+
+[![Publish SWA Learn](/resources/img/publish-swa-learn-path.png)](https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api/?WT.mc_id=?WT.mc_id=javascript-129993-gllemos)
+
+Follow the hands-on tutorial to [publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=?WT.mc_id=javascript-129993-gllemos).
 
 ## Static Web App
 
@@ -35,9 +39,9 @@ The apps written in the following JavaScript frameworks/libraries:
 
 - A GitHub account
 - [Node.js and Git](https://nodejs.org/)
-- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
-- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
-- The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
+- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-129993-gllemos) installed
+- The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=javascript-129993-gllemos) installed
+- The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=javascript-129993-gllemos) installed
 
 ## Problems or Suggestions
 
@@ -47,32 +51,32 @@ The apps written in the following JavaScript frameworks/libraries:
 
 ### Azure Static Web Apps
 
-- Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [API support in Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/apis?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Add an API to Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-api?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
+- Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=javascript-129993-gllemos)
+- [API support in Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/apis?WT.mc_id=javascript-129993-gllemos)
+- [Add an API to Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-api?WT.mc_id=javascript-129993-gllemos)
+- [Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization?WT.mc_id=javascript-129993-gllemos)
+- [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?WT.mc_id=javascript-129993-gllemos)
+- [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?WT.mc_id=javascript-129993-gllemos)
 
 ### Azure Functions
 
-- Learn how to [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless/?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- Learn about the Azure Functions [local.settings.json](https://docs.microsoft.com/azure/azure-functions/functions-run-local#local-settings-file?wt.mc_id=mslearn_staticwebappapi-github-jopapa) file
-- Learn how to [Deploy to Azure Using Azure Functions](https://code.visualstudio.com/tutorials/functions-extension/getting-started?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- Sign up for a [Free Trial of Azure](https://azure.microsoft.com/free/?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
+- Learn how to [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless/?WT.mc_id=javascript-129993-gllemos)
+- Learn about the Azure Functions [local.settings.json](https://docs.microsoft.com/azure/azure-functions/functions-run-local#local-settings-file?WT.mc_id=javascript-129993-gllemos) file
+- Learn how to [Deploy to Azure Using Azure Functions](https://code.visualstudio.com/tutorials/functions-extension/getting-started?WT.mc_id=javascript-129993-gllemos)
+- Sign up for a [Free Trial of Azure](https://azure.microsoft.com/free/?WT.mc_id=javascript-129993-gllemos)
 
 ### Visual Studio Code
 
-- [Azure Free Trial](https://azure.microsoft.com/free/?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [VS Code](https://code.visualstudio.com?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [VS Code Extension for Node on Azure](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=mslearn_staticwebappapi-github-jopapa)
-- Azure Functions [local.settings.json](https://docs.microsoft.com/azure/azure-functions/functions-run-local#local-settings-file?WT.mc_id=mslearn_staticwebappapi-github-jopapa) file
+- [Azure Free Trial](https://azure.microsoft.com/free/?WT.mc_id=javascript-129993-gllemos)
+- [VS Code](https://code.visualstudio.com?WT.mc_id=javascript-129993-gllemos)
+- [VS Code Extension for Node on Azure](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=javascript-129993-gllemos)
+- Azure Functions [local.settings.json](https://docs.microsoft.com/azure/azure-functions/functions-run-local#local-settings-file?WT.mc_id=javascript-129993-gllemos) file
 
 ### Debugging Resources
 
-- [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
+- [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?WT.mc_id=javascript-129993-gllemos)
+- [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?WT.mc_id=javascript-129993-gllemos)
+- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?WT.mc_id=javascript-129993-gllemos)
 
 ## Contributing
 
