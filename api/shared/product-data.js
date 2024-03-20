@@ -42,7 +42,6 @@ const updateProduct = (product) => {
 
 const deleteProduct = (id) => {
   const value = parseInt(id, 10);
-  console.log(id)
   data.products = data.products.filter((v) => v.id !== value);
   return true;
 };
